@@ -1,0 +1,6 @@
+// place your custom styles here
+.vp-blog-count div:not(.count) {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
